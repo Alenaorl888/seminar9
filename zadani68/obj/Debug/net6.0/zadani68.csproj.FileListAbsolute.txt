@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\bin\Debug\net6.0\zadani68.exe
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\bin\Debug\net6.0\zadani68.deps.json
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\bin\Debug\net6.0\zadani68.runtimeconfig.json
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\bin\Debug\net6.0\zadani68.dll
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\bin\Debug\net6.0\zadani68.pdb
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\obj\Debug\net6.0\zadani68.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\obj\Debug\net6.0\zadani68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\obj\Debug\net6.0\zadani68.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\obj\Debug\net6.0\zadani68.AssemblyInfo.cs
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\obj\Debug\net6.0\zadani68.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\obj\Debug\net6.0\zadani68.dll
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\obj\Debug\net6.0\refint\zadani68.dll
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\obj\Debug\net6.0\zadani68.pdb
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\obj\Debug\net6.0\zadani68.genruntimeconfig.cache
+C:\Users\asus\Desktop\семинар9\seminar9\zadani68\obj\Debug\net6.0\ref\zadani68.dll
